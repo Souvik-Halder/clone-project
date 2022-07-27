@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+.navbar{
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", "Helvetica"," Arial", "sans-serif"
+    
+
+}
+
+.nav-link{
+    font-weight: bold;
+    font-size: medium;
+    
+}
+.nav-link:hover{
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 25px;
+  }
+
+  .dropdown:hover .dropdown-menu {display: block;}
+
+  .dropdown-item-desc{
+    font-size: small;
+  }
+
+
+
+  .form-1{
+    background-color: none;
+  }
+
+.hi{
+    background-color:rgb(235, 52, 186) !important;
+    color:white;
+  }
+
+  .carousel .carousel-item {
+    height: 500px;
+
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+  }
+  .midcar{
+    width: 50% !important;
+  }
