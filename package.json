@@ -1,0 +1,34 @@
+{
+  "name": "clone-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Souvik-Halder/clone-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Souvik-Halder/clone-project/issues"
+  },
+  "homepage": "https://github.com/Souvik-Halder/clone-project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-layout": "^0.1.0",
+    "express-session": "^1.17.3",
+    "flash": "^1.1.0",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.19",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
