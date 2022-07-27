@@ -44,7 +44,7 @@
   }
 
 .hi{
-    background-color:rgb(235, 52, 186) !important;
+    background-color:#ea4c89 !important;
     color:white;
   }
 
@@ -63,3 +63,46 @@
   .midcar{
     width: 50% !important;
   }
+
+  .footer-title{
+    fill:#ea4c89 !important ;
+    width: 150px;
+    height: 150px;
+  }
+
+  .footer-text{
+    text-align:left;
+  }
+
+.heading{
+  font-weight: 500;
+  color:black;
+  text-align:left;
+  padding-left: 15px;
+}
+
+.link-design{
+   color:rgba(74, 73, 72)!important;
+   font-weight: 100;
+   text-align:left;
+}
+
+
+
+.bold{
+  color: black;
+  font-weight: 500;
+}
+.svgIcon{
+  width: 20px;
+  height: 20px;
+}
+
+.footerRight{
+  text-align: right;
+  
+}
+
+
+
+
