@@ -69,3 +69,21 @@
   .icsize{
     font-size: 22px;
   }
+  .hi1{
+    background-color: rgb(164, 156, 156) !important;
+  }
+
+.para_style{
+  font-size: 20px;
+
+}
+.para_portion{
+  width: 60% !important;
+}
+.last_portion{
+  width: 60px !important;
+}
+.odm{
+  font-size: 30px;
+  
+}
